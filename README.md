@@ -1,6 +1,6 @@
-/*
+
 * Author : Parul Sharma
-*/
+
 
 # PatternProgram
 This Program that is fully based on different types of Interesting Patterns.
